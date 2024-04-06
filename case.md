@@ -10,3 +10,7 @@ https://www.youtube.com/watch?v=eoXguTDnnHM&t=145s
 ### Ekstralar
 
 - Aracın şerit değiştirmesi esnasında, resim olarak çıktı alınması.
+
+---
+
+İletişim için: hakan@routewise.tech
